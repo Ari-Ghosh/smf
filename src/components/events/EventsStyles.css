@@ -9,20 +9,24 @@
     font-size: 55px;
 }
 
-.hor{
+.event .content .hor{
     height: 5px;
     border-radius: 2px;
     padding: 1px;
-    width: 15%;
+    width: 5%;
     background-color: #ff0000;
     position: relative;
-    left: 43%;
+    left: 47.5%;
 }
 
 @media screen and (max-width: 640px) {
     
     .content h1{
         font-size: 35px;
+    }
+    .event .content .hor{
+        width: 10%;
+        left: 45.5%;
     }
     
 }

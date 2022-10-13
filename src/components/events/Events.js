@@ -7,8 +7,8 @@ function Hero() {
         <div className='event'>
             <div className="content">
                 <h1>EVENTS</h1>
+                <div className="hor"></div>
                 <br></br>
-                
             </div>
         </div>
     )
