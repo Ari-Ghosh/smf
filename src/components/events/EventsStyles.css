@@ -1,0 +1,28 @@
+.event {
+    color: #000;
+    justify-items: center;
+    margin: 2% 7%;
+}
+
+.content h1{
+    text-align: center;
+    font-size: 55px;
+}
+
+.hor{
+    height: 5px;
+    border-radius: 2px;
+    padding: 1px;
+    width: 15%;
+    background-color: #ff0000;
+    position: relative;
+    left: 43%;
+}
+
+@media screen and (max-width: 640px) {
+    
+    .content h1{
+        font-size: 35px;
+    }
+    
+}

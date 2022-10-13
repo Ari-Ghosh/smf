@@ -1,0 +1,29 @@
+.hero {
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+    position: relative;
+}
+
+.overlay {
+    background-image: url("../../assets/cover.jpg");
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+.hero .content {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+}

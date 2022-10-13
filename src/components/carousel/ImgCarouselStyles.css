@@ -1,0 +1,15 @@
+.carousel {
+    padding:0;
+    margin: 1% 0%;
+}
+
+
+.carousel img {
+    height: 85vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.thumbs-wrapper, .carousel-status, .showArrows {
+    display: none;
+}
