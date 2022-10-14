@@ -33,7 +33,7 @@ function Hero() {
                                     enable: true,
                                     mode: "repulse",
                                 },
-                                resize: true,
+                                resize: false,
                             },
                             modes: {
                                 push: {
