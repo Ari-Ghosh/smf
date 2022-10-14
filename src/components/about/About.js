@@ -1,7 +1,6 @@
 import React from 'react'
 import './AboutStyles.css'
 
-
 function Hero() {
     return (
         <div className='about'>
@@ -13,6 +12,10 @@ function Hero() {
 
                     Fermentum iaculis eu non diam phasellus vestibulum lorem. Sodales neque sodales ut etiam sit amet nisl. Vitae congue eu consequat ac felis donec et odio pellentesque. Nisi vitae suscipit tellus mauris a. Id consectetur purus ut faucibus pulvinar elementum integer. Neque vitae tempus quam pellentesque nec nam aliquam sem. Dignissim cras tincidunt lobortis feugiat vivamus at augue eget. Facilisis volutpat est velit egestas dui id ornare. Tristique et egestas quis ipsum suspendisse. Tristique senectus et netus et malesuada. Orci a scelerisque purus semper eget duis at tellus at. Blandit turpis cursus in hac habitasse platea. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Tortor posuere ac ut consequat semper viverra.
                 </h3>
+                <br></br>
+                <div className="adv">
+                    
+                </div>
             </div>
         </div>
     )
