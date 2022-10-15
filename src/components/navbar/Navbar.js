@@ -16,10 +16,10 @@ function Navbar() {
                 <h2>SMART MAKER FESTIVAL</h2>
             </div>
             <ul className="nav-menu">
-                <Link to='home' smooth={true} duration={500} ><li>Home</li></Link>
-                <Link to='about' smooth={true} duration={500} ><li>About</li></Link>
-                <Link to='event' smooth={true} duration={500} ><li>Events</li></Link>
-                <Link to='carousel' smooth={true} duration={500} ><li>Gallery</li></Link>
+                <Link to='home' smooth={true} duration={500} className="navbar-stuff"><li >Home</li></Link>
+                <Link to='about' smooth={true} duration={500} className="navbar-stuff"><li >About</li></Link>
+                <Link to='event' smooth={true} duration={500} className="navbar-stuff"><li >Events</li></Link>
+                <Link to='carousel' smooth={true} duration={500} className="navbar-stuff"><li >Gallery</li></Link>
 
             </ul>
 

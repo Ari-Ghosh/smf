@@ -3,7 +3,7 @@ import './AboutStyles.css'
 
 function Hero() {
     return (
-        <div className='about'>
+        <div className='about' id="aabout">
             <div className="content">
                 <h1>ABOUT THE EVENT</h1>
                 <div className="hor"></div>
